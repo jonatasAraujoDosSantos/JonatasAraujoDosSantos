@@ -2,17 +2,17 @@
 
 **`Desenvolvedor Full Stack & Analista de Dados`**
 
-Me chamo Jonatas Araujo dos Santos, tenho 37 anos e sou natural de São Paulo. Concluí o ensino médio em escola pública, com formação técnica em Informática. Atualmente, curso Análise e Desenvolvimento de Sistemas e aprimoro meus conhecimentos em Análise de Dados pela Alura. Sou apaixonado por tecnologia, desenvolvimento e dados, buscando constantemente aprender, criar soluções e transformar informações em resultados. Meu LinkedIn está disponível em "[Jonatas Araujo](https://www.linkedin.com/in/jonatas-araujo-t-)".
+Me chamo Jonatas Araujo dos Santos, tenho 37 anos e sou natural de São Paulo. Concluí o ensino médio em escola pública, com formação técnica em Informática. Atualmente, curso Análise e Desenvolvimento de Sistemas e aprimoro meus conhecimentos em Análise de Dados pela Alura. Sou apaixonado por tecnologia, desenvolvimento e dados, buscando constantemente aprender, criar soluções e transformar informações em resultados. Meu LinkedIn está disponível em "[Jonatas Araujo](https://www.linkedin.com/in/jonatas-araujo-t)".
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/jonatas-araujo-t-">
+    <a href="https://www.linkedin.com/in/jonatas-araujo-t">
         <img 
             alt="Meu Linkedin" 
             title="Venha me conhecer" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=%23000000"
         />
     </a>
-    <a href="ttps://www.linkedin.com/in/jonatas-araujo-t-">
+    <a href="ttps://www.linkedin.com/in/jonatas-araujo-t">
         <img 
             alt="Linkedin views" 
             title="Visualize meu Linkedin" 
