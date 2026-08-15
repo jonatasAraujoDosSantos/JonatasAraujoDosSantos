@@ -163,6 +163,8 @@ Me chamo Jonatas Araujo dos Santos, tenho 37 anos e sou natural de São Paulo. C
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <table>
@@ -183,3 +185,5 @@ Me chamo Jonatas Araujo dos Santos, tenho 37 anos e sou natural de São Paulo. C
     </td>
   </tr>
 </table>
+
+---
